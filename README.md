@@ -20,7 +20,7 @@ CyberBox es una herramienta interactiva diseñada para escanear redes, cifrar/de
 ### 1. Clonar el Repositorio
 Primero, clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/tu_usuario/cyberbox.git
+git clone https://github.com/equipo-boxprogramacion/BOX-LINUX.git
 cd cyberbox
 ```
 
